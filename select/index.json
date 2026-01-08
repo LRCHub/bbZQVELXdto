@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Breathless",
+  "base_artist": "嵐",
+  "createdAt": "2026-01-08T11:48:37.869383Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breathless (Keeping Me Up All Night)",
+      "artist": "moistbreezy",
+      "has_synced": true,
+      "path": "select/01_Breathless_(Keeping_Me_Up_All_Night)_moistbreezy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breathless (Keeping Me Up All Night) [Club Mix]",
+      "artist": "moistbreezy",
+      "has_synced": true,
+      "path": "select/02_Breathless_(Keeping_Me_Up_All_Night)_[Club_Mix]_moistbreezy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/03_Breathless_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Electric Youth",
+      "has_synced": true,
+      "path": "select/04_Breathless_Electric_Youth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Completely Breathless",
+      "artist": "Place Vendome",
+      "has_synced": true,
+      "path": "select/05_Completely_Breathless_Place_Vendome.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Adorable",
+      "has_synced": false,
+      "path": "select/06_Breathless_Adorable.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/07_Breathless_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Tina Cousins",
+      "has_synced": true,
+      "path": "select/08_Breathless_Tina_Cousins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Bassnectar feat. DC Breaks & Mimi Page",
+      "has_synced": true,
+      "path": "select/09_Breathless_Bassnectar_feat._DC_Breaks_&_Mimi_Page.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Breathless (feat. Mimi Page)",
+      "artist": "Bassnectar & DC Breaks",
+      "has_synced": true,
+      "path": "select/10_Breathless_(feat._Mimi_Page)_Bassnectar_&_DC_Breaks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/11_Breathless_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Cat Power",
+      "has_synced": false,
+      "path": "select/12_Breathless_Cat_Power.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/13_Breathless_Texas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/14_Breathless_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "The Corrs",
+      "has_synced": true,
+      "path": "select/15_Breathless_The_Corrs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "Caroline Polachek",
+      "has_synced": true,
+      "path": "select/16_Breathless_Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Breathless",
+      "artist": "X",
+      "has_synced": true,
+      "path": "select/17_Breathless_X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breathless",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_Breathless_嵐.txt"
+    }
+  ]
+}
